@@ -1,4 +1,4 @@
-ExecEngine C Compiler
+C to RISC-V Compiler
 ==============================
 
 ![ExecEngine](https://github.com/alvi-codes/C_Compiler/assets/94545356/2bc5a1fa-8189-4f7f-afc9-915646d01c3f)
