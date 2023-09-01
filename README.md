@@ -4,7 +4,7 @@
 ![ExecEngine](https://github.com/alvi-codes/C_Compiler/assets/94545356/2bc5a1fa-8189-4f7f-afc9-915646d01c3f)
 
 
-This repo contains the source code for the ANSI C (C90) to RISC-V compiler developed as part of the EIE 2nd Year Instruction Set Architecture and Compilers coursework completed in Spring 2023. This project was done by myself (Johan) and [Johan](https://github.com/johanjino/). Our primary road-map and direction was driven by the [**spec**](project_guide.md). This repo can be used a reference or guideline to learn basics of compiler design such as lexing, parsing, abstract-syntax-tree (AST) and assembly generation. Further, contexts like register allocation, stack pointer, memory management, etc can also be seen. Future works out of the scope of the project, which have not be implemented include intermediate representation and code optimisation. Please note, **copying this code will be considered as plagiarism**.
+This repo contains the source code for the ANSI C (C90) to RISC-V compiler developed as part of the EIE 2nd Year Instruction Set Architecture and Compilers coursework completed in Spring 2023. This project was done by myself (Alvi) and [Johan](https://github.com/johanjino/). Our primary road-map and direction was driven by the [**spec**](project_guide.md). This repo can be used a reference or guideline to learn basics of compiler design such as lexing, parsing, abstract-syntax-tree (AST) and assembly generation. Further, contexts like register allocation, stack pointer, memory management, etc can also be seen. Future works out of the scope of the project, which have not be implemented include intermediate representation and code optimisation. Please note, **copying this code will be considered as plagiarism**.
 
 This project scored a 80% out of all the seen and unseen test cases, putting our compiler second-best ranked among all. The test cases varied from functions and datatypes to pointers and structs. If you have any questions and suggestions, please feel free to reach out to me or open an issue. I would be more than happy to help and learn more 😀.
 
@@ -17,9 +17,9 @@ Our compiler can be built by calling `make bin/c_compiler` (or just `make`), and
 
 The command-line parameters must be provided in the order outlined above mostly which has been derived from the given spec. 
 
-admin
------
-This directory contains admin related images and markdown files, including the specifications of the project. This directory also contains a [Review](admin/ExecEngine_review.md) of our compiler given by our TA [Simon Staal](https://simon-staal.github.io/), which clearly outlines the strengths and weaknesses of our compiler.
+project_review
+---------------
+This file also contains a [Review](project_review.md) of our compiler given by our TA [Simon Staal](https://simon-staal.github.io/), which clearly outlines the strengths and weaknesses of our compiler.
 
 
 compiler_tests
