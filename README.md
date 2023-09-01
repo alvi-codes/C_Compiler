@@ -45,3 +45,7 @@ Acknowledgements
 * Special thanks to [John Wickerson](https://johnwickerson.github.io/) for creating such a wonderful coursework and teaching us Compilers for 2nd Year EIE. 
 
 * Extra-special thanks to [James Nock](https://www.linkedin.com/in/jpnock/) and [Simon Staal](https://simon-staal.github.io/) for guiding us through this project and reviewing our work with great effort to help us improve!
+
+
+
+*Personal Note: Thanks to [Johan](https://github.com/johanjino/) for making this wonderful project logo!*
